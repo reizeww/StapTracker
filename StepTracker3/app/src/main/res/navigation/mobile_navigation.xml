@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_step">
+
+    <fragment
+        android:id="@+id/navigation_step"
+        android:name="com.example.steptracker3.ui.step.StepFragment"
+        android:label="Step"
+        tools:layout="@layout/fragment_step" />
+
+    <fragment
+        android:id="@+id/navigation_leaderboard"
+        android:name="com.example.steptracker3.ui.leaderboard.LeaderboardFragment"
+        android:label="Leaderboard"
+        tools:layout="@layout/fragment_leaderboard" />
+
+    <fragment
+        android:id="@+id/navigation_statistics"
+        android:name="com.example.steptracker3.ui.statistics.StatisticsFragment"
+        android:label="Statistic"
+        tools:layout="@layout/fragment_statistics" />
+    <fragment
+        android:id="@+id/navigation_maps"
+        android:name="com.example.steptracker3.ui.maps.MapsFragment"
+        android:label="Maps"
+        tools:layout="@layout/fragment_maps" />
+</navigation>
