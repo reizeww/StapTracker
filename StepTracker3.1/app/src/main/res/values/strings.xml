@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">StepTracker3</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="step_counter_title">Счетчик шагов</string>
+    <string name="step_counter_description">Количество пройденных шагов</string>
+    <string name="steps_count">Шаги: %1$d</string>
+    <string name="coordinates_format">Coordinates: %1$.6f, %2$.6f</string>
+    <string name="build_route">Построить маршрут</string>
+    <string name="steps_format">Шаги: %d</string>
+    <string name="average_steps_format">%1$d</string>
+    <string name="total_steps_format">%1$d</string>
+
+
+
+
+
+</resources>

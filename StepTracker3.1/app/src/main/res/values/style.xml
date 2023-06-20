@@ -1,0 +1,9 @@
+<resources>
+    <style name="ToggleStyle" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:textColor">@color/button_toggle_text_color</item>
+        <item name="backgroundTint">@color/button_toggle_background_color</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+
+    </style>
+</resources>

@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "293527114539",
+    "firebase_url": "https://keen-hook-384017-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "keen-hook-384017",
+    "storage_bucket": "keen-hook-384017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293527114539:android:af245523d7389f447d2b6e",
+        "android_client_info": {
+          "package_name": "com.example.steptracker3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293527114539-lbfb6s4vhvs1m61ehrlmu7mlpln4pv8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.steptracker3",
+            "certificate_hash": "c3317132ce1e22a19c63f01bbdec4f1a87c3bd14"
+          }
+        },
+        {
+          "client_id": "293527114539-paabfkvita2c9pkotjk9j1n6uuqvs2em.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.steptracker3",
+            "certificate_hash": "e357cf247115419482cd21cb1e8396d303972ef9"
+          }
+        },
+        {
+          "client_id": "293527114539-1s2ac4820osuocg4pr5p85uc9nb8gs54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbf-4LW7JrqCEui1OAuITMtn9GT1-EJew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293527114539-1s2ac4820osuocg4pr5p85uc9nb8gs54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
